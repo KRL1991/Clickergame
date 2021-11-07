@@ -1,0 +1,23 @@
+body {
+
+    background-color: black;
+}
+
+h1 {
+
+    color: white;
+}
+
+div {
+
+    text-align: center;
+    
+}
+
+img {
+
+    border-radius: 25%;
+
+    width: 750px;
+    height: 500px;
+}
